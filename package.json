@@ -18,7 +18,12 @@
     "lexxy",
     "lexer",
     "simple",
-    "micro"
+    "micro",
+    "lex",
+    "token",
+    "tokenizer",
+    "scanner",
+    "parser"
   ],
   "repository": {
     "type": "git",

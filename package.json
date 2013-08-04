@@ -1,0 +1,32 @@
+{
+  "name": "lexxy",
+  "version": "0.1.0",
+  "description": "lexxy is a simple lexer for Node.js.",
+  "author": {
+    "name": "Shockk",
+    "email": "shokku.ra@gmail.com",
+    "url": "https://github.com/ShockkPony/"
+  },
+  "contributors": [
+    {
+      "name": "Shockk",
+      "email": "shokku.ra@gmail.com",
+      "url": "https://github.com/ShockkPony/"
+    }
+  ],
+  "keywords": [
+    "lexxy",
+    "lexer",
+    "simple",
+    "micro"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShockkPony/lexxy.git"
+  },
+  "license": "BSD",
+  "main": "index",
+  "engines": {
+    "node": ">=0.8"
+  }
+}

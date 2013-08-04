@@ -1,1 +1,4 @@
-module.exports = require('./lib/lexer.js');
+module.exports =
+{
+	Lexer: require('./lib/lexer.js')
+}

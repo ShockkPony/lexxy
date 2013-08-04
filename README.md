@@ -22,7 +22,7 @@ lexer.type('OPENTAG', /<([^\/]+?)>/);
 lexer.type('CLOSETAG', /<\/([^\/]+?)>/);
 
 // pattern for assignments
-lexer.type('ASSIGN', /(\w+?)\s+?=\s+(\w+?));
+lexer.type('ASSIGN', /(\w+?)\s+?=\s+(\w+?)/m);
 
 // lex example string
 var tokens = lexer.lex('<test>  number \n  =5</test>');
